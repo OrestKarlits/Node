@@ -1,3 +1,0 @@
-name:Orest
- age:26
- city:Lviv
